@@ -1,0 +1,23 @@
+html {
+	font-weight: 400;
+}
+
+body {
+	margin-bottom: 65px;
+}
+
+.content {
+	margin: 20px auto;
+	max-width: 1920px;
+	text-align: center;
+}
+
+#imagePage {
+	max-width: 100%;
+}
+
+#altText {
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 20px;
+}
